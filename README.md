@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Full-Stack Developer with 5+ years of experience  
+💻 Full-Stack Developer 
 🚀 Specializing in Java (Spring Boot), .NET Core, and Python  
 🔧 Building scalable REST APIs and Microservices architectures  
 ☁️ Experienced with AWS, Azure, Docker, and Kubernetes  
